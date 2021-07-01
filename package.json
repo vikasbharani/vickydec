@@ -1,0 +1,25 @@
+{
+  "env": "prd",
+  "urls": [
+    "/se/in/en/faqs/FA86461/",
+    "/se/in/en/faqs/FA316686/",
+    "/se/ca/en/faqs/FA87281/",
+    "/se/uk/en/faqs/FA22767/",
+    "/se/us/en/faqs/FA365251/",
+    "/se/in/en/faqs/FA276938/",
+    "/se/us/en/faqs/FA168406/",
+    "/se/ie/en/faqs/FA197507/",
+    "/se/ie/en/faqs/FA402828/",
+    "/se/uk/en/faqs/FA27970/",
+    "/se/in/en/faqs/home/",
+    "/se/in/en/faqs/search/",
+    "/se/uk/en/faqs/home/",
+    "/se/uk/en/faqs/search/",
+    "/se/us/en/faqs/home/",
+    "/se/us/en/faqs/search/",
+    "/se/ie/en/faqs/home/",
+    "/se/ie/en/faqs/search/",
+    "/se/ca/en/faqs/home/",
+    "/se/ca/en/faqs/search/"                           
+  ]
+}
